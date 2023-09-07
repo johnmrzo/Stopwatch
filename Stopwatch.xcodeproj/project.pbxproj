@@ -14,6 +14,8 @@
 		EC9CA5702AA8D257000FA2F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC9CA56F2AA8D257000FA2F8 /* Assets.xcassets */; };
 		EC9CA5732AA8D257000FA2F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC9CA5712AA8D257000FA2F8 /* LaunchScreen.storyboard */; };
 		EC9CA57B2AA95828000FA2F8 /* Stopwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC9CA57A2AA95828000FA2F8 /* Stopwatch.swift */; };
+		EC9CA57D2AA95FBE000FA2F8 /* Backgroundimage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC9CA57C2AA95FBE000FA2F8 /* Backgroundimage.jpg */; };
+		EC9CA59A2AA963C6000FA2F8 /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = EC9CA5992AA963C6000FA2F8 /* Icon-60@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		EC9CA5722AA8D257000FA2F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC9CA5742AA8D257000FA2F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EC9CA57A2AA95828000FA2F8 /* Stopwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stopwatch.swift; sourceTree = "<group>"; };
+		EC9CA57C2AA95FBE000FA2F8 /* Backgroundimage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Backgroundimage.jpg; sourceTree = "<group>"; };
+		EC9CA5992AA963C6000FA2F8 /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,7 @@
 		EC9CA5652AA8D255000FA2F8 /* Stopwatch */ = {
 			isa = PBXGroup;
 			children = (
+				EC9CA57C2AA95FBE000FA2F8 /* Backgroundimage.jpg */,
 				EC9CA5662AA8D255000FA2F8 /* AppDelegate.swift */,
 				EC9CA5682AA8D255000FA2F8 /* SceneDelegate.swift */,
 				EC9CA56A2AA8D255000FA2F8 /* ViewController.swift */,
@@ -66,6 +71,7 @@
 				EC9CA5712AA8D257000FA2F8 /* LaunchScreen.storyboard */,
 				EC9CA5742AA8D257000FA2F8 /* Info.plist */,
 				EC9CA57A2AA95828000FA2F8 /* Stopwatch.swift */,
+				EC9CA5992AA963C6000FA2F8 /* Icon-60@3x.png */,
 			);
 			path = Stopwatch;
 			sourceTree = "<group>";
@@ -129,6 +135,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC9CA5732AA8D257000FA2F8 /* LaunchScreen.storyboard in Resources */,
+				EC9CA59A2AA963C6000FA2F8 /* Icon-60@3x.png in Resources */,
+				EC9CA57D2AA95FBE000FA2F8 /* Backgroundimage.jpg in Resources */,
 				EC9CA5702AA8D257000FA2F8 /* Assets.xcassets in Resources */,
 				EC9CA56E2AA8D255000FA2F8 /* Main.storyboard in Resources */,
 			);
